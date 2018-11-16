@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="ntd">NTD</string>
+    <string name="go">Go</string>
+    <string name="none">None</string>
+    <string name="us">US</string>
+    <string name="jp">JP</string>
+</resources>
